@@ -32,6 +32,8 @@
 ---
 
 ## 📁 Project Structure
+<img width="270" height="576" alt="image" src="https://github.com/user-attachments/assets/cba02427-95da-41f2-aba8-2b928b1ec075" />
+
 
 ## 🔐 Authentication & Roles
 
